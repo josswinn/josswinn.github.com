@@ -27,7 +27,7 @@ We are expecting 150 undergraduates from across the country will attend DevXS to
 
 It is the latest example of how the University of Lincoln has embraced the different themes of openness, such as open source, open data, open education and open access, and we are mindful that this contributes towards a greater strategic priority of re-configuring the nature of teaching and learning in higher education and encouraging students to become part of the academic project of the University and collaborators with academics in the production of knowledge and meaning.
 
-* [Student as Producer](http://studentasproducer.lincoln.ac.uk
+* [Student as Producer](http://studentasproducer.lincoln.ac.uk)
 * [DevXS](http://devxs.org)
 
 ## Further reading:
