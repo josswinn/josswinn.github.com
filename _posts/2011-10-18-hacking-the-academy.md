@@ -38,4 +38,4 @@ It is the latest example of how the University of Lincoln has embraced the diffe
 * Thomas, Douglas. 2002. Hacker Culture. University of Minnesota Press.
 * Wark, McKenzie. 2004. A Hacker Manifesto. Harvard University Press.
 
-First published in the [Guardian](http://www.guardian.co.uk/higher-education-network/2011/oct/18/hacking-academy-devxs-conference)
+A version of this post with minor edits was first published in the [Guardian](http://www.guardian.co.uk/higher-education-network/2011/oct/18/hacking-academy-devxs-conference)
