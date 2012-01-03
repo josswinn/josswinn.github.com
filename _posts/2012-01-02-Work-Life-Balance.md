@@ -13,4 +13,4 @@ Finished two [projects](http://lncd.lincoln.ac.uk/projects/) and started another
 
 In 2012 I want to do fewer things but do them better, spend more time with Sue and Gracie, read more fiction, and make things.
 
-* of course, in most cases I did this in collaboration with, and greatly benefitted from the help of, friends and colleagues.
+  * of course, in most cases I did this in collaboration with, and greatly benefitted from the help of, friends and colleagues.
