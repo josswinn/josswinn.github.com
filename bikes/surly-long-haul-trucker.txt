@@ -15,12 +15,17 @@ SRAM PC 971 Chain 9 Speed
 Tektro CR720 Cantilever Brakes
 Shimano BL-R400 brake levers
 Tektro Adjustable Front Cantilever Hanger
+<<<<<<< HEAD
 SRAM Slickwire Brake Cable Kit
 Nitto CT-80 Ahead stem ??mm
+=======
+SRAM Shift Cable Kit (brakes)
+Nitto ??? Ahead stem ??mm
+>>>>>>> Changed wheel spec
 Newbaum Handlebar tape
 Nitto Noodle Mod 177 44cm handlebars
 Nitto SP72 'Jaguar' seat post
 Brooks B-17 Special Honey
-Wheels: Shimano Deore XT (FH/HB T780) hubs on Exal LX17 rims
+Wheels: Shimano 36H Deore XT (FH/HB T780) hubs on Exal LX17 rims. Built by David C. R. Hunt.
 700 x 35C Schwalbe Marathon Supreme folding tyres
 
