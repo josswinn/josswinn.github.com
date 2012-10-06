@@ -15,13 +15,8 @@ SRAM PC 971 Chain 9 Speed
 Tektro CR720 Cantilever Brakes
 Shimano BL-R400 brake levers
 Tektro Adjustable Front Cantilever Hanger
-<<<<<<< HEAD
 SRAM Slickwire Brake Cable Kit
-Nitto CT-80 Ahead stem ??mm
-=======
-SRAM Shift Cable Kit (brakes)
 Nitto ??? Ahead stem ??mm
->>>>>>> Changed wheel spec
 Newbaum Handlebar tape
 Nitto Noodle Mod 177 44cm handlebars
 Nitto SP72 'Jaguar' seat post
