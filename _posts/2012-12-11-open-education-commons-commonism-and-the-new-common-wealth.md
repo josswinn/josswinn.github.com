@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Open education: common(s), commonism and the new common wealth
+title: Open education. Common(s), commonism and the new common wealth
 ---
 
 # {{ page.title }}

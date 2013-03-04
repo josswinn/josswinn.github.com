@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Open education: from the freedom of things to the freedom of people
+title: Open education. From the freedom of things to the freedom of people
 ---
 
 # {{ page.title }}
